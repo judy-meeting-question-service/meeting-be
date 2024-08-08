@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "question": "What is closure in JavaScript?",
+    "description": "A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment).",
+    "tags": [
+      "javascript",
+      "closure",
+      "javascript1",
+      "javascript2",
+      "javascript3",
+      "javascript4"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Explain event delegation in JavaScript.",
+    "description": "Event delegation allows you to avoid adding event listeners to specific nodes; instead, the event listener is added to a parent element.",
+    "tags": [
+      "javascript",
+      "event",
+      "delegation"
+    ]
+  }
+]
